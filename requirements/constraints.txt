@@ -70,7 +70,7 @@ filelock==3.3.2
     # via virtualenv
 freezegun==1.1.0
     # via -r requirements/test.txt
-frozenlist==1.3.1
+frozenlist==1.3.3
     # via
     #   -r requirements/base.txt
     #   aiosignal
@@ -103,7 +103,7 @@ jinja2==3.0.2
     #   towncrier
 markupsafe==2.0.1
     # via jinja2
-multidict==5.2.0
+multidict==6.0.4
     # via
     #   -r requirements/multidict.txt
     #   yarl
@@ -253,7 +253,7 @@ webcolors==1.11.1
     # via blockdiag
 wheel==0.37.0
     # via pip-tools
-yarl==1.8.1
+yarl==1.9.1
     # via -r requirements/base.txt
 zipp==3.8.1
     # via importlib-metadata
